@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GDG Tijuana - Eventos</string>
+    <string name="hello_world">Hola mundo!</string>
+    <string name="menu_settings">Configuraciones</string>
+    <string name="title_activity_evento_detalle">Detalle</string>
+
+</resources>
